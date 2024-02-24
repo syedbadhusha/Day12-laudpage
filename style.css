@@ -1,0 +1,150 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container-fluid{
+    padding: 0px;
+    margin: 0px;
+}
+.head{
+    background-color: rgb(12, 11, 11);
+    color: white;
+    height: 350px;
+}
+.menu{
+    height: 30px;
+    font-size: 10px;
+    padding-left: 200px;
+}
+.menuli{
+    display: inline-block;
+    text-align: center;
+    padding: 14px;
+}
+.name{
+    text-align: center;
+    margin-top: 100px;
+    font-family: sans-serif;
+}
+.name b{
+    font-size: 13px;
+}
+.content{
+    padding-left: 250px;
+    padding-top: 100px;
+}
+.cntntimage{
+    padding-top: 150px;
+    padding-left: 60px;
+}
+.imagecss{
+    height: 400px;
+
+}
+.line{
+    display: block;
+    font-size: 13px;
+}
+.buttn{
+    height: 20px;
+    text-align: center;
+    margin: 50px;
+}
+.learnbtn{
+    background-color: rgb(219, 213, 213);
+    height: 40px;
+    width: 150px;
+    border: 0;
+    border-radius: 4px;
+}
+.videobtn{
+    background-color: rgb(189, 17, 17);
+    height: 40px;
+    width: 120px;
+    border: 0;
+    color: white;
+    border-radius: 4px;
+}
+.bookbtn{
+    background-color: rgb(245, 162, 8);
+    height: 40px;
+    width: 120px;
+    border: 0;
+    color: white;
+    border-radius: 4px;
+}
+.poem{
+    background-color: rgb(12, 11, 11);
+    color: white;
+    height: 100px; 
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 35px;
+}
+.awards{
+    height: 60px;
+    text-align: center;
+    margin-top: 30px;
+    align-items: center;
+}
+.awardtit{
+    max-width: 120px;
+}
+.awardname{
+    border: 1px solid rgb(189, 180, 180);
+    margin: 10px;
+    min-width: 240px;
+    border-radius: 4px;
+}
+.awadName1{
+    font-weight: bold;
+    text-align: left;
+}
+.awadYear{
+    color: rgb(189, 180, 180);
+    text-align: left;
+}
+.textCntnt{
+    font-size: 12px;
+    text-align: left;
+}
+.poetrytit{
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 60px;
+}
+.poemline{
+    font-weight: bold;
+    max-width: 50px;
+    margin: 0px;
+    padding: 0px;
+}
+.poemandsong{
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+.listcss{
+    text-align: left;
+    font-size: 15px;
+}
+.awadedPoem{
+    margin-left: 250px;
+}
+.footer{
+    background-color: rgb(12, 11, 11);
+    height: 200px;
+    padding-top: 60px;
+    padding-left: 50px;
+    margin-top: 50px;
+}
+.centrBordr{
+    border-left: 1px solid rgb(44, 43, 43);
+    border-right: 1px solid rgb(48, 46, 46);
+    color: white;
+    text-align: left;
+}
+.footerSide{
+    text-align: left;
+    color: white;
+}
